@@ -21,11 +21,13 @@ This app uses JSON Web Tokens to authenticate users and keep them logged in. All
     - Registration
     - Login
     - Logout
+    - Displays whether or not user is logged in
 - Todo Based Features
     - Creating Todo Items
     - Retrieving Todo Items
     - Updating Todo Items
     - Deleting Todo Items
+    - Modal window closes after creating new Todo
  
 ### Features Left to Implement
 - None!
